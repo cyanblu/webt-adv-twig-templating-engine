@@ -1,0 +1,12 @@
+{
+    "name": "htlw3r/pammercokg",
+    "description": "Twig Advanced Uebung",
+    "type": "project",
+    "license": "GPL",
+    "autoload": {
+        "psr-4": {
+            "Htlw3r\\Pammercokg\\": "src/"
+        }
+    },
+    "require": {}
+}
